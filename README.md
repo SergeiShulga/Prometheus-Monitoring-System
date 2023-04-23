@@ -15,7 +15,6 @@
 
 ![alt text](https://github.com/SergeiShulga/Prometheus-Monitoring-System/blob/main/img/001.png)
 
-img/001.png
  
 #### Задание 2
 Установите Node Exporter.
@@ -28,7 +27,9 @@ img/001.png
 Требования к результату
 Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
 
- ![alt text](https://github.com/SergeiShulga/Zabbix-monitoring-system.-Part-2-/blob/main/img/002.png)
+![alt text](https://github.com/SergeiShulga/Prometheus-Monitoring-System/blob/main/img/002.png)
+
+
 #### Задание 3
 Подключите Node Exporter к серверу Prometheus.
 
@@ -43,11 +44,17 @@ img/001.png
 Дополнительные задания со звёздочкой*
 Эти задания дополнительные. Их можно не выполнять. Это не повлияет на зачёт. Вы можете их выполнить, если хотите глубже разобраться в материале.
 
+![alt text](https://github.com/SergeiShulga/Prometheus-Monitoring-System/blob/main/img/003.png)
+
+![alt text](https://github.com/SergeiShulga/Prometheus-Monitoring-System/blob/main/img/004.png)
+
 #### Задание 4*
 Установите Grafana.
 
 Требования к результату
  Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
+
+![alt text](https://github.com/SergeiShulga/Prometheus-Monitoring-System/blob/main/img/005.png)
 
 #### Задание 5*
 Интегрируйте Grafana и Prometheus.
@@ -57,4 +64,5 @@ img/001.png
 Критерии оценки
 Выполнено минимум 3 обязательных задания
 Прикреплены требуемые скриншоты
-Задание оформлено в шаблоне с решением и опубликовано на GitHub
+![alt text](https://github.com/SergeiShulga/Prometheus-Monitoring-System/blob/main/img/006.png)
+
