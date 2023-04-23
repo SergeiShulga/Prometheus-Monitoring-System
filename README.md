@@ -13,7 +13,9 @@
 Требования к результату
 Прикрепите к файлу README.md скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО]
 
-![alt text](https://github.com/SergeiShulga/Zabbix-monitoring-system.-Part-2-/blob/main/img/001.png)
+![alt text](https://github.com/SergeiShulga/Prometheus-Monitoring-System/blob/main/img/001.png)
+
+img/001.png
  
 #### Задание 2
 Установите Node Exporter.
